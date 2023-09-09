@@ -4,7 +4,7 @@
 
 ## Lo que me apasiona
 
-- 💻 **Soporte de TI:** Disfruto resolviendo problemas técnicos y ayudando a los usuarios a superar desafíos tecnológicos.
+- 💻 **Soporte de TI:** Disfrutaría resolver problemas técnicos y ayudar a los usuarios a superar desafíos tecnológicos.
 - 🚀 **Desarrollo Backend:** Estoy emocionado por aprender cómo funcionan los servidores y construir aplicaciones sólidas y seguras.
 - 🎨 **Desarrollo Frontend:** También me apasiona la creación de interfaces de usuario atractivas y funcionales que brinden una gran experiencia al usuario.
 
