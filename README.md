@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Karen] 👋
+# ¡Hola! Soy Karen 👋
 
 ¡Bienvenido a mi espacio en GitHub! Soy un entusiasta de la tecnología con un interés creciente en el soporte de TI, el desarrollo backend y frontend. Aquí encontrarás un vistazo a mis intereses y a lo que estoy aprendiendo.
 
