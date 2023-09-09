@@ -1,19 +1,16 @@
-# ¡Hola! Soy Karen 👋
+# Konnichiwa, coders! 👋
 
-¡Bienvenido a mi espacio en GitHub! Soy un entusiasta de la tecnología con un interés creciente en el soporte de TI, el desarrollo backend y frontend. Aquí encontrarás un vistazo a mis intereses y a lo que estoy aprendiendo.
+![wallpaper](https://github.com/karencardiel/karencardiel/assets/129384547/6fb123ed-e9c9-4e53-baad-efd17a05d288)
 
-## Lo que me apasiona
 
-- 💻 **Soporte de TI:** Disfrutaría resolver problemas técnicos y ayudar a los usuarios a superar desafíos tecnológicos.
-- 🚀 **Desarrollo Backend:** Estoy emocionado por aprender cómo funcionan los servidores y construir aplicaciones sólidas y seguras.
-- 🎨 **Desarrollo Frontend:** También me apasiona la creación de interfaces de usuario atractivas y funcionales que brinden una gran experiencia al usuario.
+## Continuous Learning
 
-## Objetivos
+Right now, my focus is on:
 
-Mi objetivo en GitHub es compartir mis proyectos relacionados con el soporte TI y mi progreso en el desarrollo frontend y backend. Estoy emocionado por lo que vendrá en este viaje y espero aprender y colaborar con otros apasionados de la tecnología.
+- 📚 **IT Support:** Learning the ins and outs of technical support to solve technological issues and assist users.
 
-## Contacto
+- 🌟 **Frontend and Backend Development:** Exploring the world of creating attractive interfaces and building robust applications.
 
-Encuéntrame en [LinkedIn](https://www.linkedin.com/in/karencardiel/).
+## Goals
 
-¡Gracias por visitar mi perfil de GitHub! 😊
+My main goal is to grow as a developer, contribute to meaningful projects, and learn from the incredible developer community. I look forward to collaborating with you in the world of technology!
