@@ -2,11 +2,6 @@
 
 ¡Bienvenido a mi espacio en GitHub! Soy un entusiasta de la tecnología con un interés creciente en el soporte de TI, el desarrollo backend y frontend. Aquí encontrarás un vistazo a mis intereses y a lo que estoy aprendiendo.
 
-## Sobre mí
-
-- 🌐 Explorando el mundo del desarrollo web
-- 📚 Siempre buscando oportunidades de aprendizaje y crecimiento
-
 ## Lo que me apasiona
 
 - 💻 **Soporte de TI:** Disfruto resolviendo problemas técnicos y ayudando a los usuarios a superar desafíos tecnológicos.
@@ -19,6 +14,6 @@ Mi objetivo en GitHub es compartir mis proyectos relacionados con el soporte TI 
 
 ## Contacto
 
-¡Me encantaría conectarme contigo y aprender juntos! Encuéntrame en [LinkedIn](https://www.linkedin.com/in/karencardiel/).
+Encuéntrame en [LinkedIn](https://www.linkedin.com/in/karencardiel/).
 
 ¡Gracias por visitar mi perfil de GitHub! 😊
