@@ -1,7 +1,6 @@
-# Konnichiwa, coders! 👋
+# Hey, nice to see you! 
 
-![wallpaper](https://github.com/karencardiel/karencardiel/assets/129384547/6fb123ed-e9c9-4e53-baad-efd17a05d288)
-
+![wallpaper](https://github.com/karencardiel/karencardiel/assets/129384547/81e7f4fc-58d4-48ff-b488-c4f3d01ce7da)
 
 ## Continuous Learning
 
