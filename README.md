@@ -1,4 +1,4 @@
- <h1> Konnichiwa! <img src = "https://slackmojis.com/emojis/12510-kirby_dance/download" width="40"/></h1>
+ <h1> Hallo! <img src = "https://slackmojis.com/emojis/12510-kirby_dance/download" width="40"/></h1>
 
 ![wallpaper](https://github.com/user-attachments/assets/3edfd00a-204c-4d45-b953-fb01c83f1ed1)
 
